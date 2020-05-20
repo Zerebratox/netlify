@@ -1,10 +1,12 @@
 
 h1{
     color: blue;
+    text-align: center;
 }
 .flexWrapper{
 
     display: flex;
     justify-content: center;
     flex-flow: column;
+    align-self: center;
 }
